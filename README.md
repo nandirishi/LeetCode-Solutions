@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nandirishi/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nandirishi/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/nandirishi/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
